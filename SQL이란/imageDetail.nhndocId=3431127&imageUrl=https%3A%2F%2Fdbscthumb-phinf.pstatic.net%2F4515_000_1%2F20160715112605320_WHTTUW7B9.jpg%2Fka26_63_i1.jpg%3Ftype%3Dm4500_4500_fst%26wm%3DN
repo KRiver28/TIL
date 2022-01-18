@@ -1,0 +1,1678 @@
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://terms.naver.com/imageDetail.naver?cid=58430&docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430">
+    <meta property="og:title" content="[그림 4-19] 개체-관계 다이어그램 예 이미지">
+    <meta property="og:image" content="https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=r100&wm=N">
+    <meta property="og:description" content="고객, 책, 출판사 개체로 구성
+">
+    <link rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/terms/terms/css/imgviewer_190710.css?211224153812">
+    <link rel="shortcut icon" href="/favicon.ico?211224153812 type="image/x-icon">
+</head>
+<body>
+<script type="text/javascript" src="https://common.like.naver.com/js/reaction/dist/reaction.min.js?211224153812"></script>
+<div id="scrapContent" style="display:none">
+    <div style="overflow:hidden;width:578px;margin:0 0 30px 1px;">
+        <div style="margin-top:23px;">
+		<div style="float:left;position:relative;margin:2px 27px 0 2px;">
+            <a class="scrapLink" href="https://terms.naver.com/imageDetail.naver?cid=58430&docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430" style="text-decoration:none;color:#383838;">
+                <img class="scrapImg" src="https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=r100&wm=N" alt="[그림 4-19] 개체-관계 다이어그램 예">
+            </a>
+        </div>
+		<dl style="line-height:20px;">
+            <dd class="scrapTxt" style="color:#383838;">
+                <a class="scrapLink" href="https://terms.naver.com/imageDetail.naver?cid=58430&docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430" style="text-decoration:none;color:#383838;">
+                    고객, 책, 출판사 개체로 구성
+                </a>
+            </dd>
+        </dl>
+        </div>
+    </div>
+</div>
+
+<div id="wrap" class="thumb_area_on">
+
+    <div id="header">
+        <h1>
+            <a href="https://www.naver.com/" class="naver" target="_blank" onclick="nclk(this, 'STA.naverlogo', '', '', 1);">NAVER</a>
+                <a href="https://terms.naver.com/" class="terms" target="_blank" onclick="nclk(this, 'STA.terms', '', '', 1);">지식백과</a>
+
+        </h1>
+        <div class="view_mode" id="topMenu">
+            <span class="blind">이미지 보기 방식</span>
+            <button class="btn_autoplay" style="display:block">자동플레이</button>
+            <button class="btn_pause" style="display:none">일시정지</button>
+            <div class="time_area" style="display:none"><span>3초</span>
+                <a href="#" class="up up_max"><span class="blind">자동플레이시간 초단위 올리기</span></a>
+                <a href="#" class="down down_min"><span class="blind">자동플레이시간 초단위 낮추기</span></a>
+            </div>
+            <button class="btn_full" style="display: none;">전체화면</button>
+            <button class="btn_default" style="display: none;">일반화면</button>
+        </div>
+    </div>
+    <div class="info_area" id="mainImageInfo">
+        <div class="info_wrap">
+            <div class="info_head">
+                <h2></h2>
+                <p class="source"></p>
+                <p class="info" style="display: none;"></p>
+            </div>
+            <div class="txt_wrap" style="height:">
+                <div class="txt">
+                </div>
+                <p class="headword">
+                    <span class="tit">관련 표제어<span class="bar"></span></span>
+                    <a href="#" class="word" onclick="nclk(this, 'lnf.rel', '', '', 1);"><span></span><span class="arrow_g"></span></a>
+                </p>
+            </div>
+
+        </div>
+        <button type="button" class="hide" onclick="nclk(this, 'Inf.desopen', '', '', 1);">이미지 설명 보기</button>
+    </div>
+    <div id="container">
+        <div id="content">
+            <div class="imgviewer" id="mainImageContent">
+                <div class="imgviewer_inner">
+                    <div class="big_img" id="_imageLoadStatus">
+                        <a href="#" class="prev_big"><span class="sp_btn">이전</span></a>
+                        <a href="#" class="next_big"><span class="sp_btn">다음</span></a>
+
+                        <div class="img_box" id="_imageComplete" style="display:none;">
+                            <div class="img_area dragarea" style="width:730px;height:550px">                                 <img id="_imageObject" class="draggable" src="" alt="[그림 4-19] 개체-관계 다이어그램 예" style="top:0;left:0;width:;height:550px">
+                                <span class="thmb_v"></span>
+                                <a href="#" class="another" style="display: none;">
+                                    이 표제어의 다른 이미지
+                                    <span>22</span> 개<span class="plus">더보기</span>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="img_box" id="_imageLoading" style="display:none;height:14px">
+                            <div class="sp_thmb">
+                                <img src="https://ssl.pstatic.net/sstatic/search/img3/loading.gif" width="129" height="3" alt="로딩중">
+                            </div><span class="thmb_v"></span>
+                        </div>
+
+                        <div class="img_box" id="_imageFail" style="display:none;height:550px">
+                            <div class="sp_thmb">
+                                <a href="#" target="_blank"><img src="https://ssl.pstatic.net/sstatic/search/img3/bg_ing_bk3.png" width="76" height="68" alt="원본이미지보기"></a>
+                                <p>선택하신 이미지를 불러올 수 없습니다.<br>위 이미지를 클릭하시면, 원본 페이지로 이동합니다.</p>
+                            </div><span class="thmb_v"></span>
+                        </div>
+
+                        <div class="img_box" id="_imageApiFail" style="display:none;height:550px">
+                            <div class="sp_thmb">
+                                <a href="#" target="_blank"><img src="https://ssl.pstatic.net/sstatic/search/img3/bg_ing_bk3.png" width="76" height="68" alt="원본이미지보기"><span class="thmb_v"></span></a>
+                                <p>선택하신 이미지를 불러올 수 없습니다.<br>잠시 후, 다시 확인해주세요.</p>
+                            </div><span class="thmb_v"></span>
+                        </div>
+
+                        <div class="img_info" id="_imageInfoSummary" >
+                            <span class="title"></span>
+                            <span class="sub_title"></span>
+                            <br>
+                            <div class="source_wrap">
+                                <span class="source"></span>
+                                <button type="button" class="btn_content" onclick="nclk(this, 'cth.title', '', '', 1);">본문보기</button>
+                                <button type="button" class="btn_original">원본보기</button>
+                            </div>
+                            <div class="api_area">
+                                <div class="sns_area">
+                                    <a href="#" id="socialPlugin" class="naver-splugin naver_splugin"
+                                       data-style="unity-v2"
+                                       data-url="https://terms.naver.com/imageDetail.naver?cid=58430&docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430"
+                                       data-title="[그림 4-19] 개체-관계 다이어그램 예 이미지"
+                                       data-me-display="off"
+                                       data-option="{top:-100, left:-210}"
+                                       title="공유"
+                                       onclick="nclk(this, 'cth.share', '', '', 1);"><span class="ico_splugin"></span>공유</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="zoom" id="_mainZoom">
+                <a href="#" class="zoom_in">확대</a>
+                <div class="slider_wrap">
+                    <div class="slider" id="slider_zoom">
+                    </div>
+                    <div class="slider_status" style="top:100px"></div>
+                </div>
+                <a href="#" class="zoom_out zoom_out_min">축소</a>
+                <a href="#" class="zoom_refresh refresh_none">새로고침</a>
+            </div>
+            <div class="minimap_float" id="_mainMinimap" style="display: none;">
+                <h3 class="blind">이미지 네비게이션</h3>
+                <div class="minimap">
+					<span class="minimap_area">
+						<span class="minimap_wrap">
+							<span class="zoom_area draggable" style="display: none;">
+								<img src="" alt="[그림 4-19] 개체-관계 다이어그램 예" class="mask_img" style="">
+								<span class="frame"></span>
+							</span>
+							<span class="opacity"></span>
+							<img src="" alt="[그림 4-19] 개체-관계 다이어그램 예" id="_miniImage">
+						</span>
+					</span>
+                </div>
+            </div>
+        </div>
+        <div class="thumb_area" id="thumbnailContent" style="visibility:hidden">
+            <h3 class="blind">썸네일 리스트</h3>
+            <div class="thumb_wrap">
+                <div class="path" id="_thumbnailTop">
+                    <a href="#" class="category" onclick="nclk(this, 'btc.cat', '', '', 1);"></a>
+                    <span class="_sortOption"></span><span class="count"><em></em> / <em></em>건</span>
+					
+                </div>
+
+                <ul class="thumb_list" id="_thumbnailImage">
+                </ul>
+
+                <div class="scr_isrs" id="_thumbnailSlide">
+                    <a href="#" class="prev_rs frst_rs">이미지 슬라이드 이전</a>
+                    <div class="scroll_box">
+                    </div>
+
+                    <a href="#" class="next_rs last_rs">이미지 슬라이드 다음</a>
+                </div>
+                <p class="isrc_cc" id="_thumbnailAttention">본 콘텐츠의 저작권은 저자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적책임을 질 수 있습니다.</p>
+            </div>
+            <button href="#" class="hide"><span class="blind">썸네일 목록 닫기</span></button>
+        </div>
+        <div class="head_list" id="mainImageAdditional" style="display:none">
+            <h3 class="blind">표제어 내 다른 이미지</h3>
+            <div class="list_wrap" style="width:604px">
+                <div class="list_con" id="_imageInDoc">
+                    <button class="btn_prev">이전</button>
+                    <div class="thumb_list">
+                        <ul>
+                        </ul>
+                    </div>
+                    <button class="btn_next" href="#">다음</button>
+                </div>
+                <a href="#" class="head_page">같은 카테고리의<br>다른 이미지 보기<span class="arrow_gr"></span></a>
+            </div>
+            <div class="paging_wrap">
+                <div class="paging">
+                    <span class="this"><span class="_curSlideNum">1</span></span><span> / <span class="_totalSlideNum">1</span></span><em></em>
+                </div>
+            </div>
+            <button class="close">표제어 내 다른 이미지 리스트 닫기</button>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var id = "naver-splugin-sdk", t = new Date(), yyyy = t.getFullYear(), mm = t.getMonth() + 1, dd = t.getDate();
+        var s = document.createElement("script"); s.id = id; s.type = "text/javascript", s.charset = "utf-8", s.async = false;
+        s.src = ("https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?" + yyyy + (mm < 10 ? '0' + mm : mm) + (dd < 10 ? '0' + dd : dd));
+        var d = document.getElementsByTagName('head')[0]; d.appendChild(s, d);
+    })();
+</script>
+<script>
+    var htSocialPluginData = {
+        // nEvent Key
+        "evKey"       : "terms",
+        // 서비스명
+        "serviceName" : "지식백과",
+        "sourceName" : "데이터베이스 개론",
+        // 버튼 클릭후 호출되는 콜백함수
+        "onClick"     : function(button) {
+            // button = 버튼명(band:밴드보내기)
+        },
+        // 공유하기 레이어 노출 후 호출되는 콜백함수
+        "onShow"      : function() {
+        },
+        // 공유하기 레이어 닫기 후 호출되는 콜백함수
+        "onHide"      : function() {
+        }
+    };
+
+    var htInnerDocImgData = {
+        result: {
+	itemCount : "1", 
+	link : "https://terms.naver.com/entry.naver?docId=3431127", 
+	items : {
+		item : [
+			{
+				title : "[그림 4-19] 개체-관계 다이어그램 예", 
+				titleWithoutTag : "[그림 4-19] 개체-관계 다이어그램 예", 
+				imageLinkForEntry : "https://terms.naver.com/entry.naver?docId=3431127", 
+				language : "",
+				sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+					isPhotoGallery : "N",
+					desc : "고객, 책, 출판사 개체로 구성", 
+					headword : "E-R 다이어그램", 
+					headwordWithoutTag : "E-R 다이어그램", 
+					subTitle : ""
+				},
+				img_id : "3431127-1",
+				plugin_id : "",
+				pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=w450_fst",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=r100&wm=N", 
+
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=m4500_4500_fst&wm=N", 
+				largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=m4500_4500_fst&wm=N", 
+				sImgSize : "1782X1085", 
+				sLargeImgSize : "1782X1085", 
+				sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+]
+			}
+		]
+	}
+}
+    };
+
+    var htSlidingThumbnailData = {
+        result: {
+	total : "175", 
+	itemCount : "40", 
+	category : "컴퓨터/통신/IT>데이터베이스 개론", 
+	items : {
+		item : [
+			{
+				sImg : "img1",
+				title : "[그림 4-19] 개체-관계 다이어그램 예", 
+				titleWithoutTag : "[그림 4-19] 개체-관계 다이어그램 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431127", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431127",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "고객, 책, 출판사 개체로 구성", 
+        			headword : "E-R 다이어그램", 
+        			headwordWithoutTag : "E-R 다이어그램", 
+					subTitle : ""
+				},
+				img_id : "3431127-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=w450_fst",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=r100&wm=N", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112605320_WHTTUW7B9.jpg/ka26_63_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		sImgSize : "1782X1085", 
+        		sLargeImgSize : "1782X1085", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431127&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112605320_WHTTUW7B9.jpg%2Fka26_63_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img2",
+				title : "[그림 10-1] 트랜잭션의 예1", 
+				titleWithoutTag : "[그림 10-1] 트랜잭션의 예1", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431258", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431258",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431258&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113146717_7IPQEMRXW.jpg%2Fka26_194_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "계좌이체 트랜잭션", 
+        			headword : "트랜잭션의 개념", 
+        			headwordWithoutTag : "트랜잭션의 개념", 
+					subTitle : ""
+				},
+				img_id : "3431258-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113146717_7IPQEMRXW.jpg/ka26_194_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113146717_7IPQEMRXW.jpg/ka26_194_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113146717_7IPQEMRXW.jpg/ka26_194_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113146717_7IPQEMRXW.jpg/ka26_194_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1499X815", 
+        		sLargeImgSize : "1499X815", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431258&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113146717_7IPQEMRXW.jpg%2Fka26_194_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img3",
+				title : "[그림 B-1] 오라클", 
+				titleWithoutTag : "[그림 B-1] 오라클", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431355", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431355",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431355&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113556988_CBEHZWZPS.jpg%2Fka26_291_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "오라클의 소개", 
+        			headwordWithoutTag : "오라클의 소개", 
+					subTitle : ""
+				},
+				img_id : "3431355-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113556988_CBEHZWZPS.jpg/ka26_291_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113556988_CBEHZWZPS.jpg/ka26_291_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113556988_CBEHZWZPS.jpg/ka26_291_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113556988_CBEHZWZPS.jpg/ka26_291_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1338X523", 
+        		sLargeImgSize : "1338X523", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431355&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113556988_CBEHZWZPS.jpg%2Fka26_291_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img4",
+				title : "[그림 5-7] 고객 릴레이션과 주문 릴레이션의 스키마", 
+				titleWithoutTag : "[그림 5-7] 고객 릴레이션과 주문 릴레이션의 스키마", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431152", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431152",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431152&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112620900_MS9WBBABP.jpg%2Fka26_88_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "외래키", 
+        			headwordWithoutTag : "외래키", 
+					subTitle : ""
+				},
+				img_id : "3431152-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620900_MS9WBBABP.jpg/ka26_88_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620900_MS9WBBABP.jpg/ka26_88_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620900_MS9WBBABP.jpg/ka26_88_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620900_MS9WBBABP.jpg/ka26_88_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1240X370", 
+        		sLargeImgSize : "1240X370", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431152&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112620900_MS9WBBABP.jpg%2Fka26_88_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "4" 
+			},
+			{
+				sImg : "img5",
+				title : "[그림 5-5] 기본키가 선택된 릴레이션의 예", 
+				titleWithoutTag : "[그림 5-5] 기본키가 선택된 릴레이션의 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431150", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431150",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431150&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112620458_NUC8OR1XV.jpg%2Fka26_86_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "고객 릴레이션", 
+        			headword : "기본키", 
+        			headwordWithoutTag : "기본키", 
+					subTitle : ""
+				},
+				img_id : "3431150-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620458_NUC8OR1XV.jpg/ka26_86_i1.jpg?type=w450_fst",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620458_NUC8OR1XV.jpg/ka26_86_i1.jpg?type=r100&wm=N", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620458_NUC8OR1XV.jpg/ka26_86_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112620458_NUC8OR1XV.jpg/ka26_86_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		sImgSize : "1386X495", 
+        		sLargeImgSize : "1386X495", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431150&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112620458_NUC8OR1XV.jpg%2Fka26_86_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img6",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431202", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431202",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431202&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112833683_GH4UESGQD.jpg%2Fka26_138_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "그룹별 검색", 
+        			headwordWithoutTag : "그룹별 검색", 
+					subTitle : ""
+				},
+				img_id : "3431202-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112833683_GH4UESGQD.jpg/ka26_138_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112833683_GH4UESGQD.jpg/ka26_138_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112833683_GH4UESGQD.jpg/ka26_138_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112833683_GH4UESGQD.jpg/ka26_138_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "415X292", 
+        		sLargeImgSize : "415X292", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431202&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112833683_GH4UESGQD.jpg%2Fka26_138_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "7" 
+			},
+			{
+				sImg : "img7",
+				title : "", 
+				titleWithoutTag : "", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431156", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431156",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431156&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112636127_38PIO3RIT.jpg%2Fka26_92_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "관계 데이터 모델 요약", 
+        			headwordWithoutTag : "관계 데이터 모델 요약", 
+					subTitle : ""
+				},
+				img_id : "3431156-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112636127_38PIO3RIT.jpg/ka26_92_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112636127_38PIO3RIT.jpg/ka26_92_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112636127_38PIO3RIT.jpg/ka26_92_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112636127_38PIO3RIT.jpg/ka26_92_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1641X542", 
+        		sLargeImgSize : "1641X542", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431156&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112636127_38PIO3RIT.jpg%2Fka26_92_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img8",
+				title : "[그림 4-5] 개체 타입과 개체 인스턴스의 예", 
+				titleWithoutTag : "[그림 4-5] 개체 타입과 개체 인스턴스의 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431116", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431116",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431116&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112535282_13D52MY5S.jpg%2Fka26_52_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "고객 개체 타입과 고객 개체 인스턴스", 
+        			headword : "개체", 
+        			headwordWithoutTag : "개체", 
+					subTitle : ""
+				},
+				img_id : "3431116-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112535282_13D52MY5S.jpg/ka26_52_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112535282_13D52MY5S.jpg/ka26_52_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112535282_13D52MY5S.jpg/ka26_52_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112535282_13D52MY5S.jpg/ka26_52_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1223X637", 
+        		sLargeImgSize : "1223X637", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431116&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112535282_13D52MY5S.jpg%2Fka26_52_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img9",
+				title : "[그림 1-1] 데이터와 정보의 이해", 
+				titleWithoutTag : "[그림 1-1] 데이터와 정보의 이해", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431071", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431071",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431071&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112433097_WB5VW9VH1.jpg%2Fka26_7_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "원유와 가공 우유", 
+        			headword : "데이터와 정보", 
+        			headwordWithoutTag : "데이터와 정보", 
+					subTitle : ""
+				},
+				img_id : "3431071-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433097_WB5VW9VH1.jpg/ka26_7_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433097_WB5VW9VH1.jpg/ka26_7_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433097_WB5VW9VH1.jpg/ka26_7_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433097_WB5VW9VH1.jpg/ka26_7_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "862X830", 
+        		sLargeImgSize : "862X830", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431071&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112433097_WB5VW9VH1.jpg%2Fka26_7_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img10",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431208", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431208",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431208&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112908289_ZN644DLZ2.jpg%2Fka26_144_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터의 수정", 
+        			headwordWithoutTag : "데이터의 수정", 
+					subTitle : ""
+				},
+				img_id : "3431208-2",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112908289_ZN644DLZ2.jpg/ka26_144_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112908289_ZN644DLZ2.jpg/ka26_144_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112908289_ZN644DLZ2.jpg/ka26_144_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112908289_ZN644DLZ2.jpg/ka26_144_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "787X391", 
+        		sLargeImgSize : "787X391", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431208&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112908289_ZN644DLZ2.jpg%2Fka26_144_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "3" 
+			},
+			{
+				sImg : "img11",
+				title : "[그림 12-13] 빅데이터의 특징", 
+				titleWithoutTag : "[그림 12-13] 빅데이터의 특징", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431334", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431334",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431334&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113356243_UZ48DUWJO.jpg%2Fka26_270_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "빅 데이터의 특징", 
+        			headwordWithoutTag : "빅 데이터의 특징", 
+					subTitle : ""
+				},
+				img_id : "3431334-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113356243_UZ48DUWJO.jpg/ka26_270_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113356243_UZ48DUWJO.jpg/ka26_270_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113356243_UZ48DUWJO.jpg/ka26_270_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113356243_UZ48DUWJO.jpg/ka26_270_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "686X652", 
+        		sLargeImgSize : "686X652", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431334&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113356243_UZ48DUWJO.jpg%2Fka26_270_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img12",
+				title : "[그림 7-1] SQL의 분류", 
+				titleWithoutTag : "[그림 7-1] SQL의 분류", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431178", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431178",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431178&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112740517_I9RCY6HBI.jpg%2Fka26_114_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "SQL의 소개", 
+        			headwordWithoutTag : "SQL의 소개", 
+					subTitle : ""
+				},
+				img_id : "3431178-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112740517_I9RCY6HBI.jpg/ka26_114_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112740517_I9RCY6HBI.jpg/ka26_114_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112740517_I9RCY6HBI.jpg/ka26_114_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112740517_I9RCY6HBI.jpg/ka26_114_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1234X752", 
+        		sLargeImgSize : "1234X752", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431178&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112740517_I9RCY6HBI.jpg%2Fka26_114_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img13",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431209", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431209",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431209&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112912122_4QXFS0U1V.jpg%2Fka26_145_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터의 삭제", 
+        			headwordWithoutTag : "데이터의 삭제", 
+					subTitle : ""
+				},
+				img_id : "3431209-3",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112912122_4QXFS0U1V.jpg/ka26_145_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112912122_4QXFS0U1V.jpg/ka26_145_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112912122_4QXFS0U1V.jpg/ka26_145_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112912122_4QXFS0U1V.jpg/ka26_145_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1036X498", 
+        		sLargeImgSize : "1036X498", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431209&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112912122_4QXFS0U1V.jpg%2Fka26_145_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "3" 
+			},
+			{
+				sImg : "img14",
+				title : "", 
+				titleWithoutTag : "", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431113", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431113",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431113&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160719163223587_3TZXKXMF8.jpg%2Fka26_49_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터 모델링", 
+        			headwordWithoutTag : "데이터 모델링", 
+					subTitle : ""
+				},
+				img_id : "3431113-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160719163223587_3TZXKXMF8.jpg/ka26_49_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160719163223587_3TZXKXMF8.jpg/ka26_49_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160719163223587_3TZXKXMF8.jpg/ka26_49_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160719163223587_3TZXKXMF8.jpg/ka26_49_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "786X752", 
+        		sLargeImgSize : "786X752", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431113&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160719163223587_3TZXKXMF8.jpg%2Fka26_49_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img15",
+				title : "[그림 6-24] 고객과 주문 릴레이션의 외부 조인 연산", 
+				titleWithoutTag : "[그림 6-24] 고객과 주문 릴레이션의 외부 조인 연산", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431174", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431174",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431174&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112736784_GC47MHOX5.jpg%2Fka26_110_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "외부 조인", 
+        			headwordWithoutTag : "외부 조인", 
+					subTitle : ""
+				},
+				img_id : "3431174-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112736784_GC47MHOX5.jpg/ka26_110_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112736784_GC47MHOX5.jpg/ka26_110_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112736784_GC47MHOX5.jpg/ka26_110_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112736784_GC47MHOX5.jpg/ka26_110_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1514X1077", 
+        		sLargeImgSize : "1514X1077", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431174&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112736784_GC47MHOX5.jpg%2Fka26_110_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img16",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431200", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431200",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431200&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112821835_M0LZEQSS7.jpg%2Fka26_136_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "정렬 검색", 
+        			headwordWithoutTag : "정렬 검색", 
+					subTitle : ""
+				},
+				img_id : "3431200-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112821835_M0LZEQSS7.jpg/ka26_136_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112821835_M0LZEQSS7.jpg/ka26_136_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112821835_M0LZEQSS7.jpg/ka26_136_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112821835_M0LZEQSS7.jpg/ka26_136_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "443X386", 
+        		sLargeImgSize : "443X386", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431200&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112821835_M0LZEQSS7.jpg%2Fka26_136_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img17",
+				title : "[그림 A-1] MS SQL 서버 2012", 
+				titleWithoutTag : "[그림 A-1] MS SQL 서버 2012", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431338", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431338",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431338&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113404049_E0ZD92A13.jpg%2Fka26_274_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "MS SQL 서버의 소개", 
+        			headwordWithoutTag : "MS SQL 서버의 소개", 
+					subTitle : ""
+				},
+				img_id : "3431338-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113404049_E0ZD92A13.jpg/ka26_274_i1.jpg?type=w450_fst",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113404049_E0ZD92A13.jpg/ka26_274_i1.jpg?type=r100&wm=N", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113404049_E0ZD92A13.jpg/ka26_274_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113404049_E0ZD92A13.jpg/ka26_274_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		sImgSize : "1017X551", 
+        		sLargeImgSize : "1017X551", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431338&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113404049_E0ZD92A13.jpg%2Fka26_274_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img18",
+				title : "[그림 B-5] 1단계", 
+				titleWithoutTag : "[그림 B-5] 1단계", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431361", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431361",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431361&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113707830_DOF5L22CB.jpg%2Fka26_297_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "보안 갱신 구성", 
+        			headword : "오라클의 설치", 
+        			headwordWithoutTag : "오라클의 설치", 
+					subTitle : ""
+				},
+				img_id : "3431361-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113707830_DOF5L22CB.jpg/ka26_297_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113707830_DOF5L22CB.jpg/ka26_297_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113707830_DOF5L22CB.jpg/ka26_297_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113707830_DOF5L22CB.jpg/ka26_297_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1416X957", 
+        		sLargeImgSize : "1416X957", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431361&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113707830_DOF5L22CB.jpg%2Fka26_297_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "8" 
+			},
+			{
+				sImg : "img19",
+				title : "(a) 고객아이디 속성", 
+				titleWithoutTag : "(a) 고객아이디 속성", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431117", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431117",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431117&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112546958_YB4PWD413.jpg%2Fka26_53_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "속성", 
+        			headwordWithoutTag : "속성", 
+					subTitle : ""
+				},
+				img_id : "3431117-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112546958_YB4PWD413.jpg/ka26_53_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112546958_YB4PWD413.jpg/ka26_53_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112546958_YB4PWD413.jpg/ka26_53_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112546958_YB4PWD413.jpg/ka26_53_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "245X111", 
+        		sLargeImgSize : "245X111", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431117&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112546958_YB4PWD413.jpg%2Fka26_53_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "3" 
+			},
+			{
+				sImg : "img20",
+				title : "[그림 6-11] 카티션 프로덕트 연산의 예", 
+				titleWithoutTag : "[그림 6-11] 카티션 프로덕트 연산의 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431165", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431165",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431165&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112704477_PW5AHDTJX.jpg%2Fka26_101_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "카티션 프로덕트", 
+        			headwordWithoutTag : "카티션 프로덕트", 
+					subTitle : ""
+				},
+				img_id : "3431165-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112704477_PW5AHDTJX.jpg/ka26_101_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112704477_PW5AHDTJX.jpg/ka26_101_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112704477_PW5AHDTJX.jpg/ka26_101_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112704477_PW5AHDTJX.jpg/ka26_101_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1283X1437", 
+        		sLargeImgSize : "1283X1437", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431165&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112704477_PW5AHDTJX.jpg%2Fka26_101_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img21",
+				title : "[그림 A-14] SQL Server Management Studio 선택", 
+				titleWithoutTag : "[그림 A-14] SQL Server Management Studio 선택", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431345", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431345",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431345&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113425250_KWJRMBEE4.jpg%2Fka26_281_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "MS SQL 서버 접속", 
+        			headwordWithoutTag : "MS SQL 서버 접속", 
+					subTitle : ""
+				},
+				img_id : "3431345-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113425250_KWJRMBEE4.jpg/ka26_281_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113425250_KWJRMBEE4.jpg/ka26_281_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113425250_KWJRMBEE4.jpg/ka26_281_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113425250_KWJRMBEE4.jpg/ka26_281_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "816X863", 
+        		sLargeImgSize : "816X863", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431345&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113425250_KWJRMBEE4.jpg%2Fka26_281_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "3" 
+			},
+			{
+				sImg : "img22",
+				title : "[그림 12-15] 빅 데이터의 기술", 
+				titleWithoutTag : "[그림 12-15] 빅 데이터의 기술", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431335", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431335",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431335&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113401008_E71XYWOTV.jpg%2Fka26_271_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "빅 데이터의 기술", 
+        			headwordWithoutTag : "빅 데이터의 기술", 
+					subTitle : ""
+				},
+				img_id : "3431335-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113401008_E71XYWOTV.jpg/ka26_271_i1.jpg?type=w450_fst",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113401008_E71XYWOTV.jpg/ka26_271_i1.jpg?type=r100&wm=N", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113401008_E71XYWOTV.jpg/ka26_271_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113401008_E71XYWOTV.jpg/ka26_271_i1.jpg?type=m4500_4500_fst&wm=N", 
+        		sImgSize : "1051X309", 
+        		sLargeImgSize : "1051X309", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431335&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113401008_E71XYWOTV.jpg%2Fka26_271_i1.jpg%3Ftype%3Dm4500_4500_fst%26wm%3DN&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img23",
+				title : "[그림 B-18] SQL Plus 실행 화면", 
+				titleWithoutTag : "[그림 B-18] SQL Plus 실행 화면", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431366", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431366",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431366&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113802665_1VFNUJL58.jpg%2Fka26_302_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "SQL Plus를 이용한 오라클 접속", 
+        			headwordWithoutTag : "SQL Plus를 이용한 오라클 접속", 
+					subTitle : ""
+				},
+				img_id : "3431366-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113802665_1VFNUJL58.jpg/ka26_302_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113802665_1VFNUJL58.jpg/ka26_302_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113802665_1VFNUJL58.jpg/ka26_302_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113802665_1VFNUJL58.jpg/ka26_302_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1260X406", 
+        		sLargeImgSize : "1260X406", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431366&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113802665_1VFNUJL58.jpg%2Fka26_302_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img24",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431199", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431199",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431199&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112816225_373E8MPPL.jpg%2Fka26_135_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "NULL을 이용한 검색", 
+        			headwordWithoutTag : "NULL을 이용한 검색", 
+					subTitle : ""
+				},
+				img_id : "3431199-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112816225_373E8MPPL.jpg/ka26_135_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112816225_373E8MPPL.jpg/ka26_135_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112816225_373E8MPPL.jpg/ka26_135_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112816225_373E8MPPL.jpg/ka26_135_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "239X99", 
+        		sLargeImgSize : "239X99", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431199&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112816225_373E8MPPL.jpg%2Fka26_135_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "3" 
+			},
+			{
+				sImg : "img25",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431201", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431201",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431201&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112822554_J66AFE01S.jpg%2Fka26_137_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "집계 함수를 이용한 검색", 
+        			headwordWithoutTag : "집계 함수를 이용한 검색", 
+					subTitle : ""
+				},
+				img_id : "3431201-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112822554_J66AFE01S.jpg/ka26_137_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112822554_J66AFE01S.jpg/ka26_137_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112822554_J66AFE01S.jpg/ka26_137_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112822554_J66AFE01S.jpg/ka26_137_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "311X100", 
+        		sLargeImgSize : "311X100", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431201&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112822554_J66AFE01S.jpg%2Fka26_137_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "9" 
+			},
+			{
+				sImg : "img26",
+				title : "절차적 조작어", 
+				titleWithoutTag : "절차적 조작어", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431107", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431107",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431107&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112510691_DNS81257H.jpg%2Fka26_43_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "사오는 방법까지 구체적으로 알려주는 두부 심부름 상황", 
+        			headword : "데이터 조작어", 
+        			headwordWithoutTag : "데이터 조작어", 
+					subTitle : ""
+				},
+				img_id : "3431107-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112510691_DNS81257H.jpg/ka26_43_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112510691_DNS81257H.jpg/ka26_43_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112510691_DNS81257H.jpg/ka26_43_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112510691_DNS81257H.jpg/ka26_43_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1056X734", 
+        		sLargeImgSize : "1056X734", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431107&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112510691_DNS81257H.jpg%2Fka26_43_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img27",
+				title : "[그림 A-13] MS SQL 서버의 설치 확인", 
+				titleWithoutTag : "[그림 A-13] MS SQL 서버의 설치 확인", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431343", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431343",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431343&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113424240_KZK480HTB.jpg%2Fka26_279_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "MS SQL 서버의 설치 확인", 
+        			headwordWithoutTag : "MS SQL 서버의 설치 확인", 
+					subTitle : ""
+				},
+				img_id : "3431343-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113424240_KZK480HTB.jpg/ka26_279_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113424240_KZK480HTB.jpg/ka26_279_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113424240_KZK480HTB.jpg/ka26_279_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113424240_KZK480HTB.jpg/ka26_279_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1772X742", 
+        		sLargeImgSize : "1772X742", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431343&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113424240_KZK480HTB.jpg%2Fka26_279_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img28",
+				title : "[그림 12-11] 데이터 웨어하우스 개념", 
+				titleWithoutTag : "[그림 12-11] 데이터 웨어하우스 개념", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431331", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431331",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431331&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113350187_KE6M8ZS9Y.jpg%2Fka26_267_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터 웨어하우스", 
+        			headwordWithoutTag : "데이터 웨어하우스", 
+					subTitle : ""
+				},
+				img_id : "3431331-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113350187_KE6M8ZS9Y.jpg/ka26_267_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113350187_KE6M8ZS9Y.jpg/ka26_267_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113350187_KE6M8ZS9Y.jpg/ka26_267_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113350187_KE6M8ZS9Y.jpg/ka26_267_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1451X539", 
+        		sLargeImgSize : "1451X539", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431331&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113350187_KE6M8ZS9Y.jpg%2Fka26_267_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "6" 
+			},
+			{
+				sImg : "img29",
+				title : "[그림 10-4] 트랜잭션의 수행 성공 예", 
+				titleWithoutTag : "[그림 10-4] 트랜잭션의 수행 성공 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431260", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431260",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431260&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113155276_EJ05F4FK0.jpg%2Fka26_196_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "원자성", 
+        			headwordWithoutTag : "원자성", 
+					subTitle : ""
+				},
+				img_id : "3431260-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113155276_EJ05F4FK0.jpg/ka26_196_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113155276_EJ05F4FK0.jpg/ka26_196_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113155276_EJ05F4FK0.jpg/ka26_196_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113155276_EJ05F4FK0.jpg/ka26_196_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1597X815", 
+        		sLargeImgSize : "1597X815", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431260&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113155276_EJ05F4FK0.jpg%2Fka26_196_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img30",
+				title : "[그림 3-2] 스키마의 예", 
+				titleWithoutTag : "[그림 3-2] 스키마의 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431091", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431091",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431091&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112507124_FJBXS3XWZ.jpg%2Fka26_27_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "스키마", 
+        			headwordWithoutTag : "스키마", 
+					subTitle : ""
+				},
+				img_id : "3431091-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507124_FJBXS3XWZ.jpg/ka26_27_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507124_FJBXS3XWZ.jpg/ka26_27_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507124_FJBXS3XWZ.jpg/ka26_27_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507124_FJBXS3XWZ.jpg/ka26_27_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1051X165", 
+        		sLargeImgSize : "1051X165", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431091&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112507124_FJBXS3XWZ.jpg%2Fka26_27_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img31",
+				title : "", 
+				titleWithoutTag : "", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431238", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431238",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431238&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113051976_582YIUQ11.jpg%2Fka26_174_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "정규화", 
+        			headwordWithoutTag : "정규화", 
+					subTitle : ""
+				},
+				img_id : "3431238-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113051976_582YIUQ11.jpg/ka26_174_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113051976_582YIUQ11.jpg/ka26_174_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113051976_582YIUQ11.jpg/ka26_174_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113051976_582YIUQ11.jpg/ka26_174_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "632X824", 
+        		sLargeImgSize : "632X824", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431238&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113051976_582YIUQ11.jpg%2Fka26_174_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img32",
+				title : "[그림 1-5] 데이터베이스의 특성", 
+				titleWithoutTag : "[그림 1-5] 데이터베이스의 특성", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431075", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431075",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431075&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112433089_8FTDRL6TN.jpg%2Fka26_11_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터베이스의 특성", 
+        			headwordWithoutTag : "데이터베이스의 특성", 
+					subTitle : ""
+				},
+				img_id : "3431075-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433089_8FTDRL6TN.jpg/ka26_11_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433089_8FTDRL6TN.jpg/ka26_11_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433089_8FTDRL6TN.jpg/ka26_11_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112433089_8FTDRL6TN.jpg/ka26_11_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1089X462", 
+        		sLargeImgSize : "1089X462", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431075&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112433089_8FTDRL6TN.jpg%2Fka26_11_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img33",
+				title : "[그림 B-14] JDK의 java.exe 파일 경로 설정", 
+				titleWithoutTag : "[그림 B-14] JDK의 java.exe 파일 경로 설정", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431365", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431365",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431365&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113749702_G4DC7WJBQ.jpg%2Fka26_301_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "※ 집필 마무리 시점에 SQL Developer를 지원하는 JDK의 버전이 최소 1.5, 최대 1.6이었다. 그러니 SQL Developer을 사용하기 전에 자신의 컴퓨터에 JDK 1.5나 JDK 1.6이 설치되어 있는지 확인하기 바란다. 그리고 자바가 설치되어 있지 않으면 오라클을 실행하기 전에 자바를 먼저 설치해야 한다.", 
+        			headword : "SQL Developer를 이용한 오라클 접속", 
+        			headwordWithoutTag : "SQL Developer를 이용한 오라클 접속", 
+					subTitle : ""
+				},
+				img_id : "3431365-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113749702_G4DC7WJBQ.jpg/ka26_301_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113749702_G4DC7WJBQ.jpg/ka26_301_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113749702_G4DC7WJBQ.jpg/ka26_301_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715113749702_G4DC7WJBQ.jpg/ka26_301_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1281X364", 
+        		sLargeImgSize : "1281X364", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431365&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715113749702_G4DC7WJBQ.jpg%2Fka26_301_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "4" 
+			},
+			{
+				sImg : "img34",
+				title : "[그림 8-1] 데이터베이스 설계의 과정", 
+				titleWithoutTag : "[그림 8-1] 데이터베이스 설계의 과정", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431221", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431221",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431221&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112930730_I42H7QZHN.jpg%2Fka26_157_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터베이스 설계 단계", 
+        			headwordWithoutTag : "데이터베이스 설계 단계", 
+					subTitle : ""
+				},
+				img_id : "3431221-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112930730_I42H7QZHN.jpg/ka26_157_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112930730_I42H7QZHN.jpg/ka26_157_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112930730_I42H7QZHN.jpg/ka26_157_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112930730_I42H7QZHN.jpg/ka26_157_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "667X944", 
+        		sLargeImgSize : "667X944", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431221&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112930730_I42H7QZHN.jpg%2Fka26_157_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img35",
+				title : "[그림 6-14] 조인 연산을 적용할 릴레이션 예들의 관계", 
+				titleWithoutTag : "[그림 6-14] 조인 연산을 적용할 릴레이션 예들의 관계", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431169", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431169",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431169&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112713090_FAWLQ6GBI.jpg%2Fka26_105_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "조인", 
+        			headwordWithoutTag : "조인", 
+					subTitle : ""
+				},
+				img_id : "3431169-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112713090_FAWLQ6GBI.jpg/ka26_105_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112713090_FAWLQ6GBI.jpg/ka26_105_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112713090_FAWLQ6GBI.jpg/ka26_105_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112713090_FAWLQ6GBI.jpg/ka26_105_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "986X1097", 
+        		sLargeImgSize : "986X1097", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431169&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112713090_FAWLQ6GBI.jpg%2Fka26_105_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "4" 
+			},
+			{
+				sImg : "img36",
+				title : "[그림 3-8] 최종 사용자와 응용 프로그래머의 예", 
+				titleWithoutTag : "[그림 3-8] 최종 사용자와 응용 프로그래머의 예", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431104", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431104",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431104&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112507686_1CSHZXBCL.jpg%2Fka26_40_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "응용 프로그래머", 
+        			headwordWithoutTag : "응용 프로그래머", 
+					subTitle : ""
+				},
+				img_id : "3431104-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507686_1CSHZXBCL.jpg/ka26_40_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507686_1CSHZXBCL.jpg/ka26_40_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507686_1CSHZXBCL.jpg/ka26_40_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112507686_1CSHZXBCL.jpg/ka26_40_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1153X1089", 
+        		sLargeImgSize : "1153X1089", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431104&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112507686_1CSHZXBCL.jpg%2Fka26_40_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img37",
+				title : "결과 테이블", 
+				titleWithoutTag : "결과 테이블", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431198", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431198",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431198&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112814670_83XNBNDJ6.jpg%2Fka26_134_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "LIKE를 이용한 검색", 
+        			headwordWithoutTag : "LIKE를 이용한 검색", 
+					subTitle : ""
+				},
+				img_id : "3431198-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112814670_83XNBNDJ6.jpg/ka26_134_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112814670_83XNBNDJ6.jpg/ka26_134_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112814670_83XNBNDJ6.jpg/ka26_134_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112814670_83XNBNDJ6.jpg/ka26_134_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "524X141", 
+        		sLargeImgSize : "524X141", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431198&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112814670_83XNBNDJ6.jpg%2Fka26_134_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img38",
+				title : "", 
+				titleWithoutTag : "", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431220", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431220",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431220&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112929774_4SP6P5CV1.jpg%2Fka26_156_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터베이스 설계", 
+        			headwordWithoutTag : "데이터베이스 설계", 
+					subTitle : ""
+				},
+				img_id : "3431220-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929774_4SP6P5CV1.jpg/ka26_156_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929774_4SP6P5CV1.jpg/ka26_156_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929774_4SP6P5CV1.jpg/ka26_156_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929774_4SP6P5CV1.jpg/ka26_156_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "768X664", 
+        		sLargeImgSize : "768X664", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431220&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112929774_4SP6P5CV1.jpg%2Fka26_156_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "2" 
+			},
+			{
+				sImg : "img39",
+				title : "SQL", 
+				titleWithoutTag : "SQL", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431219", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431219",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431219&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112929023_6YWTRP0PJ.jpg%2Fka26_155_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "데이터베이스 언어 SQL 요약", 
+        			headwordWithoutTag : "데이터베이스 언어 SQL 요약", 
+					subTitle : ""
+				},
+				img_id : "3431219-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929023_6YWTRP0PJ.jpg/ka26_155_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929023_6YWTRP0PJ.jpg/ka26_155_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929023_6YWTRP0PJ.jpg/ka26_155_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112929023_6YWTRP0PJ.jpg/ka26_155_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "974X593", 
+        		sLargeImgSize : "974X593", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431219&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112929023_6YWTRP0PJ.jpg%2Fka26_155_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			},
+			{
+				sImg : "img40",
+				title : "[그림 5-4] 키의 종류", 
+				titleWithoutTag : "[그림 5-4] 키의 종류", 
+        		language : "",
+                link : "https://terms.naver.com/entry.naver?docId=3431147", 
+				imageLinkForEntry: "https://terms.naver.com/entry.naver?docId=3431147",
+        		sourceLink : "https://terms.naver.com/imageDetail.naver?docId=3431147&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112619244_CVSY0OTNY.jpg%2Fka26_83_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=58430&mode=simple|&query=&authorId=", 
+				sourceLinkType : "ZOOM", 
+				detail : { 
+					info : "", 
+					source : "데이터베이스 개론", 
+					date : "",
+        			isPhotoGallery : "N",
+        			desc : "", 
+        			headword : "키의 종류", 
+        			headwordWithoutTag : "키의 종류", 
+					subTitle : ""
+				},
+				img_id : "3431147-1",
+				plugin_id : "",
+        		pluginThumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112619244_CVSY0OTNY.jpg/ka26_83_i1.jpg?type=w450_fst_n",
+				thumbnail : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112619244_CVSY0OTNY.jpg/ka26_83_i1.jpg?type=r100&wm=Y", 
+        		orgPath : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112619244_CVSY0OTNY.jpg/ka26_83_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		largeImg : "https://dbscthumb-phinf.pstatic.net/4515_000_1/20160715112619244_CVSY0OTNY.jpg/ka26_83_i1.jpg?type=m4500_4500_fst_n&wm=Y", 
+        		sImgSize : "1219X700", 
+        		sLargeImgSize : "1219X700", 
+        		sOgUrl : "https://terms.naver.com/imageDetail.naver?docId=3431147&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4515_000_1%2F20160715112619244_CVSY0OTNY.jpg%2Fka26_83_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&mode=&query=&authorId=",
+				thumbnailPrefix : "",
+				thumbnails : [
+],
+				pageValidImgCnt : "1" 
+			}
+		]
+	}
+}
+
+    };
+
+
+    // @ajax
+    // 옵션 설정해주세요.
+    // sCategoryName
+    // nCategoryId
+    // nCategoryLink
+    // nStartIdx : 최초 진입한 이미지 인덱스(1부터)
+    var htOption = {
+        nCategoryId: "58430",
+        nStartIdx: 1,	// @ajax 0521
+        isExhibition: false,
+        cookieCloseLayerKey: "",
+
+		sCategoryName: "기술/공학>데이터베이스 개론",
+		sCategoryLink: "https://terms.naver.com/list.naver?categoryId=58430",
+		sSortOption: "st1.dsc",	// @ajax 0522
+
+        clickArea: "",
+        termName: "E-R 다이어그램",
+
+        isFromEntry: false,
+
+        // @ajax 0521 최초 로딩 시, 표제어 내 이미지 중 메인이미지로 세팅할 이미지의 인덱스
+        // (0부터 시작함. -1로 설정할 경우, 최초 로딩시에도 표제어 내 이미지를 보여주지 않음)
+        nInDocImgIdxForFirstView: -1,
+
+        // @ajax 0520 social plugin
+        htSocialPluginData: htSocialPluginData, // @ajax 0520
+
+        sDthumbUrl: 'https://dthumb-phinf.pstatic.net/?src=%22{$IMG_SRC}%22&twidth={$TWIDTH}&theight={$THEIGHT}&opts=17',
+
+        htImage: {
+            oData: htInnerDocImgData,
+            nMaxCnt: 5,	// @ajax 0516 - 5개로 변경
+            nImgMinWidth: 320,
+            nImgMinHeight: 240,
+            sErrImage: "https://ssl.pstatic.net/sstatic/search/img3/bg_ing_sbk.png",
+            sApi: "https://terms.naver.com/jsonp/innerDocImg.js.naver",
+            htApi: {
+                docId: "3431127",
+                likeDomain: "https://common.like.naver.com"
+            }
+        },
+
+        htThumbnail: {
+            oData: htSlidingThumbnailData,
+            nMinCnt: 1, // @ajax 0520
+            nSearchRes: 0,
+            nApiCall: 40,
+            sApi: "https://terms.naver.com/jsonp/slidingThumbnail.js.naver",
+            htApi: {
+                start: 1,
+                display: 40, // 처음에 가져온 이미지 리스트 개수(40정도면 적당할듯)
+                imageId: "3431127-1", // @ajax 0520 - 처음 보여줄 이미지 ID
+                so: "st1.dsc",
+                index: "",
+                mode: "",
+                query: "",
+                authorId: ""
+            }
+        }
+    };
+
+    // new nhn.arts.viewer.Component(htOption);
+</script>
+<script data-main="/js/pc/dist/imageViewer.min.js?lm=211224153812" src="/js/lib/require.min.js"></script>
+</body>
+</html>
